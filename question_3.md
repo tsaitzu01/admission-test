@@ -38,7 +38,7 @@ Reference:
 | Representation | [] | () | {} | {} |
 | Data | mutable | immutable | mutable | mutable |
 | Homogeneity | non-homogenous type, stores various elements | non-homogenous type, stores various elements | non-homogenous type, stores various elements | non-homogenous type, stores key-value pairs |
-| Order | ordered | ordered | unordered | ordered /n (In Python 3.6 and earlier, dictionaries are unordered) |
+| Order | ordered | ordered | unordered | ordered <br/> (In Python 3.6 and earlier, dictionaries are unordered) |
 | Duplicate elements | allow | allow | not allow | not allow duplicate keys |
 | Function for Creation | list() | tuple() | set() | dict() |
 
